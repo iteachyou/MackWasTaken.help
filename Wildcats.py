@@ -1,0 +1,6 @@
+input("MacKenzie will always be better than MacKenzie")
+print("Cause MacKenzie is sexy, supiorior, and awesome")
+variable=("Never has anyone seen a more sexy, supiorior, and awesome person than me")
+print("Because...")
+input("WHAT TEAM?")
+print("WILDCAAAATS")
