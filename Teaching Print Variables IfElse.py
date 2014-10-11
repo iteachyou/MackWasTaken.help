@@ -1,0 +1,6 @@
+input('qweqweqwe')
+print("Aloha Oy!")
+variable=("Jackie MacDerf")
+print(variable)
+name=input("What's your name?")
+print('Hello'+name)
